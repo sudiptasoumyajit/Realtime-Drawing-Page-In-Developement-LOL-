@@ -1,0 +1,31 @@
+*{
+    font-family: Josefin Sans;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px lightblue;
+}
+.note{
+    background-color: tomato;
+    font-size: 20px;
+    color: black;
+    line-height: 50px;
+    padding: 20px;
+}
+.copy_right_footer{
+    bottom: 0;
+    text-align: center;
+    color: white;
+    line-height: 2vw;
+    background-color: blue;
+    width: 100%;
+    position: fixed;
+}
+canvas{
+    border: solid 5px skyblue;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 5px 5px 5px darkblue;
+}
